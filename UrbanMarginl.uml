@@ -147,7 +147,7 @@
         </ownedBehavior>
         <ownedOperation xmi:type="uml:Operation" xmi:id="_50sOcCnEEfCKYrNMWBQrow" name="Mur" visibility="public" method="_50vRwCnEEfCKYrNMWBQrow"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_5zTuYCnEEfCKYrNMWBQrow" name="Joueur" visibility="public">
+      <packagedElement xmi:type="uml:Class" xmi:id="_5zTuYCnEEfCKYrNMWBQrow" name="Joueur" visibility="private">
         <generalization xmi:type="uml:Generalization" xmi:id="_5zk0ICnEEfCKYrNMWBQrow" general="_5wXIECnEEfCKYrNMWBQrow"/>
         <ownedAttribute xmi:type="uml:Property" xmi:id="_5zxBYCnEEfCKYrNMWBQrow" name="MAXVIE" visibility="private" isLeaf="true" isStatic="true" type="_5zwaUSnEEfCKYrNMWBQrow" isUnique="false">
           <defaultValue xmi:type="uml:OpaqueExpression" xmi:id="_5zyPgCnEEfCKYrNMWBQrow" name="defaultValue">
